@@ -7,4 +7,4 @@ The code appears here focuses on solving the first stage of this process.
 1. **Project Booklet.pdf** - the project paper contains the project background, description of the physical system (arena's cameras, assembly components, etc.), review of literature, methods (video detection & tracking, cameras' calibration - undistortion, 3D positioning, comibinig the cameras and filtering), results and more.
 2. **pose_analysis.ipynb** - the main flow of the system, using all the other files in this repository.
 3. **TrainNetwork_VideoAnalysis.ipynb** - the 2D-detection network training notebook using DeepLabCut.
-![This is an image](https://github.com/noyshabtay/CS-Final-Project/blob/main/readme_dragons_pic.png)
+![Bearded Dragons](https://github.com/noyshabtay/CS-Final-Project/blob/main/readme_dragons_pic.png)
